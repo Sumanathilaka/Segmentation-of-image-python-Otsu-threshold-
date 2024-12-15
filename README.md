@@ -1,3 +1,4 @@
 # Segmentation-of-image-python-Otsu-threshold
 
-algorithm is available in pdfs
+The algorithm and related information can be found in this PDF.
+
